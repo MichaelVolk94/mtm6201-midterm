@@ -4,8 +4,9 @@
   }
   
   .topnav a {
-    float: left;
-    color: #f2f2f2;
+    float: right;
+    background-color:navy;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -13,11 +14,11 @@
   }
   
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: white;
     color: black;
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color: white;
+    color: black;
   }
