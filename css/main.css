@@ -5,6 +5,9 @@ background-size: cover;
 font-family: 'Roboto', sans-serif;
 }
 
+p{
+  font-family: 'Roboto', sans-serif;
+}
 .wrapper {
   width: 1000px;
   margin: auto;
