@@ -10,6 +10,11 @@ font-family: 'Roboto', sans-serif;
   margin: auto;
 }
 
+img {
+  width: 1000px;
+  margin: auto;
+}
+
 .topnav {
     background-color: lightblue;
     overflow: hidden;
