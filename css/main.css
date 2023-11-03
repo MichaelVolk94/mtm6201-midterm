@@ -5,9 +5,16 @@ background-size: cover;
 font-family: 'Roboto', sans-serif;
 }
 
+.wrapper {
+  width: 1000px;
+  margin: auto;
+}
+
 .topnav {
     background-color: lightblue;
     overflow: hidden;
+    width: 1000px;
+    margin: auto;
   }
   
   .topnav a {
