@@ -18,6 +18,10 @@ img {
   margin: auto;
 }
 
+.fit-picture {
+  width: 400px;
+}
+
 .topnav {
     background-color: lightblue;
     overflow: hidden;
