@@ -61,4 +61,6 @@ img {
 
   footer{
     background-color: yellow;
+    position: absolute;
+    width: 1000px;
   }
