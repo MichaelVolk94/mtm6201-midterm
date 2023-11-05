@@ -64,3 +64,25 @@ img {
     position: absolute;
     width: 1000px;
   }
+
+  form input,
+form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: .5rem 1rem;
+}
+
+form textarea {
+  min-height: 150px;
+  max-height: 150px;
+  height: 150px;
+  resize: none;
+}
+
+form button {
+  background: none;
+  border: 2px solid black;
+  padding: 1rem;
+  text-transform: uppercase;
+}
