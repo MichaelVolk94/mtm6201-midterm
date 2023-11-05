@@ -12,6 +12,11 @@ h1 {
 p{
   font-family: 'Roboto', sans-serif;
 }
+
+label{
+  font-family: 'Roboto', sans-serif;
+  float: left;
+}
 .wrapper {
   width: 1000px;
   margin: auto;
@@ -78,6 +83,7 @@ form textarea {
   max-height: 150px;
   height: 150px;
   resize: none;
+  width: 1000px;
 }
 
 form button {
