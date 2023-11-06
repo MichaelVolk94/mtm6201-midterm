@@ -40,6 +40,8 @@ img {
     overflow: hidden;
     width: 1000px;
     margin: auto;
+    display:flex;
+    align-items: center;
   }
   
   .topnav a {
@@ -52,6 +54,7 @@ img {
     font-size: 17px;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
+    margin: 10px;
   }
   
   .topnav a:hover {
