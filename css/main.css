@@ -64,6 +64,11 @@ img {
     color: black;
   }
 
+  .topnav img {
+    width: 100px;
+    float: left;
+  }
+
   footer{
     background-color: yellow;
     position: absolute;
