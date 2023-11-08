@@ -18,7 +18,10 @@ h2 {
 }
 
 body{
+  max-width: 1000px;
   text-align: center;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 label{
