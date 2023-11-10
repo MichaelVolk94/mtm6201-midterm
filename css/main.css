@@ -139,3 +139,30 @@ form button {
   max-width: 1000px;
   margin: 0 auto;
 }
+
+.main-nav ul{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+.skip-links{
+  position: static;
+  width: auto;
+  height: auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-nav ul li {
+  flex: 1;
+  text-align: center;
+  display: inline-block;
+  border-style: solid;
+}
+.main-nav ul li a{
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
