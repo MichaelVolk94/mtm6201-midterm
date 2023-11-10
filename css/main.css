@@ -166,3 +166,6 @@ form button {
   text-decoration: none;
   font-size: 1.25rem;
 }
+ul {
+  list-style-type: none; /* Remove bullets */
+}
