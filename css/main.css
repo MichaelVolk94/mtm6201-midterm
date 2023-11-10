@@ -99,8 +99,11 @@ a {
 
   footer{
     background-color: yellow;
-    position: absolute;
-    width: 1000px;
+    max-width: 1000px;
+    position: sticky;
+    height: 40px;
+    margin: auto;
+    display: grid;
   }
 
   form input,
