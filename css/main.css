@@ -59,6 +59,7 @@ a {
   font-size: 50px;
 }
 
+/* Main navagation */
 .topnav {
     background-color: lightblue;
     overflow: hidden;
@@ -109,7 +110,7 @@ a {
   form input,
 form textarea {
   display: block;
-  width: 100%;
+  width: 1000px;
   margin-bottom: 1rem;
   padding: .5rem 1rem;
 }
