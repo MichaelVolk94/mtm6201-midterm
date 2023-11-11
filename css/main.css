@@ -108,6 +108,7 @@ a {
     display: grid;
   }
 
+  /* Contact Information */
   form input,
 form textarea {
   display: block;
