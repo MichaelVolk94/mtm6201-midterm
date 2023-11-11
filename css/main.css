@@ -110,7 +110,7 @@ a {
   form input,
 form textarea {
   display: block;
-  width: 1000px;
+  width: 93%;
   margin-bottom: 1rem;
   padding: .5rem 1rem;
 }
@@ -118,7 +118,6 @@ form textarea {
 form textarea {
   min-height: 150px;
   max-height: 150px;
-  height: 150px;
   resize: none;
 }
 
@@ -128,6 +127,9 @@ form button {
   border: 2px solid black;
   padding: 1rem;
   text-transform: uppercase;
+}
+input {
+  height: 20px;
 }
 
 .submit:hover {
